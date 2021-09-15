@@ -1,0 +1,5 @@
+cid = str(input('Em que cidade voce nasceu? ')).strip()
+#cid2 = cid.strip().upper()
+#count = cid2.find(' ')
+#print('SANTO ' in cid2[:count+1])
+print(cid[:5].upper() == 'SANTO')
