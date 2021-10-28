@@ -1,0 +1,3 @@
+# cursoemvideo
+Curso Python
+Exercícios
